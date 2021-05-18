@@ -1,5 +1,7 @@
 # Data Access Objects in Scala
-This Template uses -
+This template is all about Abstraction of the Application/Business layer from the persistence layer thus implementing excellent OOP’s style of programming.
+
+## This Template uses -
 - ScalaTest as a testing tool.
 - Mockito as a testing framework.
 
